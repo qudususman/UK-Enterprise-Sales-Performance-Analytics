@@ -1,2 +1,1 @@
-# UK-Enterprise-Sales-Performance-Analytics
-An interactive Power BI sales analytics dashboard designed to track revenue, profit, customer performance, regional sales trends, and business intelligence insights for executive decision-making.
+Power BI and SQL business intelligence dashboard analyzing enterprise revenue, profitability, customer performance, regional sales trends, and executive decision-making metrics.
